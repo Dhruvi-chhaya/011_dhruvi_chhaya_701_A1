@@ -1,0 +1,15 @@
+{
+  "name": "q8",
+  "version": "1.0.0",
+  "description": "Custom Script Project",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "node test.js",
+    "hello":"echo 'Hello this is a custom Script'",
+    "start-dev":"nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
